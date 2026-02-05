@@ -511,6 +511,23 @@ item.logic_toggle Alternador Lógico
 item.logic_memory Memória Lógica
 item.logic_pixel Pixel Lógico
 
+item.forest_hammer Martelo da Floresta
+item.forest_hammer.desc Pode moldar blocos mais complexos.
+item.door_locker Fechadura
+item.door_locker.desc Tranca portas.
+item.forest_key Chave do Calabouço da Floresta
+item.forest_key.desc Destranca portas do calabouço da floresta.
+item.iron_key Chave de Ferro
+item.iron_key.desc Destranca portas comuns.
+item.jelly_spoon Colher de Gelatina
+item.jelly_spoon.desc Permite atravessar gelatina (Delicioso!).
+item.spoon_fragment Fragmento de Colher
+item.spoon_fragment.desc Pode ser combinado para fazer algo útil (E muito gostoso!).
+item.dungeon_bricks_unstable Tijolos do Calabouço da Floresta Instáveis
+item.dungeon_bricks_unstable.desc Desaba ao mais leve passo.
+item.forest_jelly Gelatina da Floresta
+item.forest_jelly.desc Nem sempre sólida.
+
 item_tag.can_place Posicionável
 item_tag.can_consume Consumível
 item_tag.axe_power Machado
@@ -527,6 +544,7 @@ item_tag.ranged_damage À Distância
 item_tag.trinket Bugiganga
 item_tag.can_block Defesa
 item_tag.knockback Empurrão
+item_tag.demo_locked Trancado na Demo
 
 settings.field_of_view Campo de Visão
 settings.max_fps FPS Máximo
